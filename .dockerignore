@@ -1,0 +1,9 @@
+.git
+.github
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+venv/
